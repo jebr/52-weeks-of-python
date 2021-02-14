@@ -1,0 +1,7 @@
+Development design pattern
+  MVC - Model, View, Controller
+
+Models - Databases
+Controller - Tasks
+View - Webpages
+
