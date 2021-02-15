@@ -17,8 +17,8 @@ for index in range(100):
         choice(["r2", "r3", "r4", "r6", "r10"])
         + choice("L")
     )
-  # ............
 
+    # next week...
 
 # Use PPRINT to prnt data as-is
 print("\n-------- Devices as list of dicts ---------")
