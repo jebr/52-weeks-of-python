@@ -5,3 +5,5 @@ Models - Databases
 Controller - Tasks
 View - Webpages
 
+Flask Quickstart
+https://flask.palletsprojects.com/en/1.1.x/quickstart/
