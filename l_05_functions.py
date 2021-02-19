@@ -49,7 +49,6 @@ def creat_devices(num_devices=1, num_subnets=1):
 
     return created_devices
 
-
-if __name__ == '__main__':
-    devices = creat_devices(num_devices=20, num_subnets=4)
-    print("\n", tabulate(devices, headers="keys"))
+# if __name__ == '__main__':
+#    devices = creat_devices(num_devices=20, num_subnets=4)
+#    print("\n", tabulate(devices, headers="keys"))
